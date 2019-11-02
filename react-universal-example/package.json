@@ -61,7 +61,7 @@
     "redux-thunk": "^2.2.0",
     "rxjs": "^6.2.1",
     "rxjs-compat": "^6.2.1",
-    "sequelize": "^4.37.3",
+    "sequelize": "^5.15.1",
     "serialize-javascript": "^1.4.0",
     "source-map-support": "^0.5.4",
     "sqlite3": "^4.0.0",
