@@ -10,7 +10,7 @@
     "fastclick": "^1.0.6",
     "jquery": "2.2.4",
     "proptypes": "^1.1.0",
-    "qs": "^6.5.2",
+    "qs": "^6.7.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-fontawesome": "^1.6.1",
